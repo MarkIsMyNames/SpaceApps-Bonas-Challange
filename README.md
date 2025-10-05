@@ -4,7 +4,7 @@
 
 **Skills:** Ecology, Environmental Engineering, Mechanical Engineering, Data Analysis, Hydrodynamics, Marine Biology
 
-## Summary:
+## Summary
 
 As Ireland works towards reducing its reliance on fossil fuels, hydroelectric power has emerged as a common alternative. For decades, the Irish government has harnessed the Shannon River to generate sustainable energy. However, this energy prduction poses a significant threat to the river's marine life. Dams and hydroelectric turbines disrupt fish migration patterns, marine food chains and the water quality; putting several species at risk. Your challenge is to reduce the impact of the energy industry on the Shannon's aquatic ecosystem.
 
